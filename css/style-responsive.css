@@ -427,8 +427,7 @@ footer {
 
 /* PARA DESKTOP */
 @media only screen 
-  and (min-device-width: 1025px) 
-  and (max-device-width: 1600px) 
+  and (min-device-width: 1025px)  
   and (-webkit-min-device-pixel-ratio: 2) { 
     body {
       width: 100%;
